@@ -10,6 +10,6 @@ Requerimiento #2: Lógica de Gestión de Productos:
 2) Consultar un Producto Específico.
   npm run start GET products/< productId>
 3) Crear un Producto Nuevo.
-  npm run start POST products <title> <price> <category>
+  npm run start POST products < title> < price> < category>
 4) Eliminar un Producto.
   npm run start DELETE products/< productId>
